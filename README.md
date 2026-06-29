@@ -16,19 +16,11 @@ Focused on full-stack web development (React + Spring Boot)
 
 ## Tech Stack
 
-**Frontend**
-- React
-- TypeScript
-- JavaScript
+**Frontend:** React, TypeScript, JavaScript
 
-**Backend**
-- Java (Spring Boot)
-- REST API design
-- MySQL, PostgreSQL
+**Backend:** Java (Spring Boot), REST API design, MySQL, PostgreSQL
 
-**Tools**
-- Git / GitHub
-- Linux environment
+**Tools:** Git / GitHub, Linux environment
 
 ---
 
