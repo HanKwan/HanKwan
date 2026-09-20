@@ -1,7 +1,7 @@
 # Hi, I'm Han 
 
 Web Developer based in Japan.
-Focused on full-stack web development (React + Spring Boot)
+Focused on full-stack web development with React and Spring Boot.
 
 ---
 
@@ -10,7 +10,7 @@ Focused on full-stack web development (React + Spring Boot)
 - CS student in Japan (専門学校)
 - Interested in building web applications end-to-end
 - Enjoy working on both frontend and backend systems
-- Currently improving system design and API development skills
+- Currently improving my system design and API development skills through personal projects
 
 ---
 
@@ -18,7 +18,9 @@ Focused on full-stack web development (React + Spring Boot)
 
 **Frontend:** React, TypeScript, JavaScript
 
-**Backend:** Java (Spring Boot), REST API design, MySQL, PostgreSQL
+**Backend:** Java (Spring Boot), REST API design
+
+**Database:** MySQL, PostgreSQL
 
 **Tools:** Git / GitHub, Linux environment
 
@@ -27,12 +29,13 @@ Focused on full-stack web development (React + Spring Boot)
 ## Projects
 
 ### Job Application Tracker (Full Stack)
-Web application to manage job applications efficiently.
+Web application to manage job applications and their statuses.
 
 - React + TypeScript frontend
 - Spring Boot backend
 - MySQL database design
 - REST API implementation (CRUD system)
+- Search and filter functionality
 - Focus on usability and workflow optimization
 
 [View Project] (https://github.com/HanKwan/Job-application-tracker)
@@ -44,7 +47,7 @@ Frontend web application that allows users to search and browse movies using an 
 
 - React / TypeScript
 - API integration (movie data)
-- Focus on UI + data fetching
+- UI + data fetching
 
 [View Project] (https://github.com/HanKwan/Movie-app-react)
 
@@ -52,10 +55,10 @@ Frontend web application that allows users to search and browse movies using an 
 
 ## Goals
 
-- Improve system design skills
-- Learn scalable backend architecture
-- Gain real-world engineering experience in Japan
-- Contribute to production-level web services
+- Improve my system design and backend development skills
+- Learn more about developing reliable web applications
+- Gain real-world software development experience in Japan
+- Contribute to real-world web services as an engineer
 
 ---
 
