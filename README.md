@@ -1,67 +1,71 @@
-# Hi, I'm Han 
+# Hi, I'm Han
 
-Web Developer based in Japan.
-Focused on full-stack web development with React and Spring Boot.
+Backend-focused Full-Stack Developer based in Japan.
+
+IT student at Kyoto Computer Gakuin, graduating in March 2027. I build web applications using Java, Spring Boot, React, and TypeScript, with an interest in backend development and application architecture.
 
 ---
 
 ## About Me
 
-- CS student in Japan (専門学校)
-- Interested in building web applications end-to-end
-- Enjoy working on both frontend and backend systems
-- Currently improving my system design and API development skills through personal projects
+- Studying Information Technology in Japan.
+- Focused on backend development with Java and Spring Boot.
+- Building full-stack applications through personal and team projects.
+- Interested in REST API development, authentication, database design, and system architecture.
+- Enjoy understanding how different parts of an application work together, from frontend to backend.
 
 ---
 
 ## Tech Stack
 
-**Frontend:** React, TypeScript, JavaScript
+**Backend:** Java, Spring Boot, Spring Data JPA, REST APIs, PHP, Laravel
 
-**Backend:** Java (Spring Boot), REST API design
+**Frontend:** React, TypeScript, JavaScript, Thymeleaf, HTML, CSS
 
-**Database:** MySQL, PostgreSQL
+**Database:** MySQL
 
-**Tools:** Git / GitHub, Linux environment
+**Tools:** Git, GitHub, Vite
 
 ---
 
 ## Projects
 
-### Job Application Tracker (Full Stack)
-Web application to manage job applications and their statuses.
+### Job Application Tracker | Full-Stack Application
 
-- React + TypeScript frontend
-- Spring Boot backend
-- MySQL database design
-- REST API implementation (CRUD system)
-- Search and filter functionality
-- Focus on usability and workflow optimization
+A web application for managing job applications, tracking application progress, and organizing recruitment activities.
 
-[View Project] (https://github.com/HanKwan/Job-application-tracker)
+- Built a Spring Boot REST API using Java, JPA, and MySQL.
+- Developed a React and TypeScript frontend using Vite.
+- Implemented CRUD operations, search, and application status management.
+- Added user registration and login with BCrypt password hashing and session-based authentication.
+- Linked application records to individual users and implemented ownership-based access control.
 
----
+[View Repository](https://github.com/HanKwan/Job-application-tracker)
 
-### Movie Search App
-Frontend web application that allows users to search and browse movies using an external API.
+### YumYum | Recipe Sharing Application
 
-- React / TypeScript
-- API integration (movie data)
-- UI + data fetching
+A team project built with three members using Java, Spring Boot, Thymeleaf, and MySQL.
 
-[View Project] (https://github.com/HanKwan/Movie-app-react)
+- Developed backend features including authentication, recipe management, user profiles, ratings, and reviews.
+- Implemented ownership checks to control recipe editing and deletion.
+- Added profile image uploads and review management.
+- Implemented a 10-minute in-memory cache for recommended recipes to reduce repeated external API requests.
+- Integrated TheMealDB API for recipe discovery and filtering.
 
----
+[View Repository](https://github.com/HanKwan/yumyum)
 
-## Goals
+### Movie Discovery App
 
-- Improve my system design and backend development skills
-- Learn more about developing reliable web applications
-- Gain real-world software development experience in Japan
-- Contribute to real-world web services as an engineer
+A React and TypeScript application for searching and exploring movies using the TMDB API.
+
+- Implemented movie search and dynamic API data fetching.
+- Handled loading states, API errors, and user feedback.
+- Organized the frontend using reusable React components.
+
+[View Repository](https://github.com/HanKwan/Movie-app-react)
 
 ---
 
 ## Contact
 
-- LinkedIn: (https://www.linkedin.com/in/hankwan/)
+- LinkedIn: [linkedin.com/in/hankwan](https://www.linkedin.com/in/hankwan/)
